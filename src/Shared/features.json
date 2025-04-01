@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "label": "Air Conditioner",
+            "name": "airConditioner",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Digital Odometer",
+            "name": "digitalOdometer",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Heater",
+            "name": "heater",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Leather Seats",
+            "name": "leatherSeats",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Panoramic Moonroof",
+            "name": "panoramicMoonroof",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Tachometer",
+            "name": "tachometer",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Touchscreen Display",
+            "name": "touchscreenDisplay",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Anti-lock Braking",
+            "name": "antiLockBraking",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Brake Assist",
+            "name": "brakeAssist",
+            "fieldType": "checkbox"
+        },
+        
+        {
+            "label": "Cruise Control",
+            "name": "cruiseControl",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Lane Departure Warning",
+            "name": "laneDepartureWarning",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Rear Parking Sensors",
+            "name": "rearParkingSensors",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Blind Spot Monitoring",
+            "name": "blindSpotMonitoring",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Adaptive Headlights",
+            "name": "adaptiveHeadlights",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Apple CarPlay / Android Auto",
+            "name": "appleCarplayAndroidAuto",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Wireless Charging",
+            "name": "wirelessCharging",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Remote Start",
+            "name": "remoteStart",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "360-degree Camera",
+            "name": "camera360",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Heads-up Display",
+            "name": "headsUpDisplay",
+            "fieldType": "checkbox"
+        },
+
+        {
+            "label": "Automatic Emergency Braking",
+            "name": "automaticEmergencyBraking",
+            "fieldType": "checkbox"
+        },
+        
+        {
+            "label": "Heated Steering Wheel",
+            "name": "heatedSteeringWheel",
+            "fieldType": "checkbox"
+        }
+
+    ]
+}

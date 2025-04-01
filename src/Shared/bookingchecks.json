@@ -1,0 +1,25 @@
+{
+    "bookingchecks": [
+        {
+            "label": "I am over 18 years old and have a valid B2 driving license.*",
+            "name": "validLicense",
+            "fieldType": "checkbox",
+            "required": true
+        },
+
+        {
+            "label": "I agree that THACO (and its affiliates, partners) may collect, use, modify, store, copy my information, and provide it to third parties (including but not limited to BMW Group companies) for customer care, event invitations, marketing activities, research, and statistical purposes among BMW Group members and partners. I also acknowledge that my personal data will be processed in accordance with the applicable privacy protection laws.*",
+            "name": "dataProcessing",
+            "fieldType": "checkbox",
+            "required": true
+        },
+
+        {
+            "label": "I also agree that THACO (and its affiliates, partners) may contact me for advertising/customer care programs through my registered phone number/email and other contact information (regardless of whether I have opted into a do-not-call list).",
+            "name": "contactConsent",
+            "fieldType": "checkbox",
+            "required": true
+        }
+        
+    ]
+}

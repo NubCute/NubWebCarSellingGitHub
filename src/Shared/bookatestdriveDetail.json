@@ -1,0 +1,92 @@
+{
+    "TestDriveDetails": [
+      {
+        "label": "Full Name",
+        "name": "fullName",
+        "fieldType": "text",
+        "required": true,
+        "column": "1",
+        "icon": "FaUser"
+      },
+
+      {
+        "label": "Email",
+        "name": "email",
+        "fieldType": "email",
+        "required": true,
+        "column": "1",
+        "icon": "FaEnvelope"
+      },
+
+      {
+        "label": "Phone Number",
+        "name": "phoneNumber",
+        "fieldType": "tel",
+        "required": true,
+        "column": "1",
+        "icon": "FaPhone"
+      },
+
+      {
+        "label": "Preferred Car",
+        "name": "preferredCar",
+        "fieldType": "dropdown",
+        "options": [ "BMW", "BMW 1 Series", "BMW 2 Series", "BMW 3 Series", "BMW 4 Series", "BMW 5 Series", "BMW 7 Series", "BMW 8 Series",
+                         "BMW X1", "BMW X2", "BMW X3", "BMW X4", "BMW X5", "BMW X6", "BMW X7", "BMW XM",
+                         "BMW Z Series", 
+                         "BMW M Series",
+                         "BMW i Series" ],
+        "required": true,
+        "column": "1",
+        "icon": "FaCar"
+      },
+
+      {
+        "label": "Car Model",
+        "name": "carModel",
+        "fieldType": "dropdown",
+        "options": [
+          "320i", "330i", "M340i", "520i", "530i", "M550i", "730Li", "740Li", "750Li", 
+          "840i", "M850i", "X1 sDrive18i", "X3 xDrive20i", "X5 xDrive40i", "X7 xDrive40i",
+          "XM", "Z4 sDrive30i", "M2 Coupe", "M4 Coupe", "i4 eDrive40", "iX3 M Sport"
+        ],
+        "required": true,
+        "column": "1",
+        "icon": "FaCarSide"
+      },
+
+      {
+        "label": "Select Showroom",
+        "name": "showroom",
+        "fieldType": "dropdown",
+        "options": [
+          "Showroom TPHCM", "Showroom Hà Nội", "Showroom Đà Nẵng", "Showroom Hải Phòng",
+          "Showroom Cần Thơ", "Showroom Nha Trang", "Showroom Bình Dương", "Showroom Đồng Nai"
+        ],
+        "required": true,
+        "column": "1",
+        "icon": "FaMapMarkerAlt"
+      },
+
+
+      {
+        "label": "Preferred Date",
+        "name": "preferredDate",
+        "fieldType": "date",
+        "required": true,
+        "column": "1",
+        "icon": "FaCalendar"
+      },
+
+      {
+        "label": "Message",
+        "name": "message",
+        "fieldType": "textarea",
+        "required": false,
+        "column": "1",
+        "icon": "FaComment"
+      }
+      
+    ]
+  }
+  
